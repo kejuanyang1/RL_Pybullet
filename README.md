@@ -1,6 +1,6 @@
 # RL_Pybullet
 
-#### References: https://github.com/IanYangChina/pybullet_multigoal_gym 
+#### Reference: https://github.com/IanYangChina/pybullet_multigoal_gym 
 
 #### 基于上述参考的Open AI Pybullet环境（是对自带Kuka环境的复现，结合了kuka iiwa14机械臂和robotiq85机械爪，直接导入urdf文件，以便后续object和robot的导入或修改）
 
